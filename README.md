@@ -111,7 +111,10 @@ newspaper-research-agents/
 │
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── README.md            # Project documentation
+└── outputs/
+    ├── 1.jpeg           # Output screenshot 1
+    └── 2.jpeg           # Output screenshot 2
 ```
 
 ---
@@ -120,11 +123,11 @@ newspaper-research-agents/
 
 **1**
 
-![Output 1](outputs/1.jpeg)
+<img src="outputs/1.jpeg" alt="Output 1" width="800"/>
 
 **2**
 
-![Output 2](outputs/2.jpeg)
+<img src="outputs/2.jpeg" alt="Output 2" width="800"/>
 
 ---
 
