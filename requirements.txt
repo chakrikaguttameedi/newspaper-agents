@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain
+langchain-google-genai
+langchain-core
+requests
+beautifulsoup4
+feedparser
